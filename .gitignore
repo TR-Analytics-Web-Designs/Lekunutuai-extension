@@ -1,0 +1,58 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Environment variables
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime data
+*.log
+*.pid
+*.seed
+
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Data files
+Data/
+*.pkl
+*.csv
+*.xlsx
+*.json
+
+# Machine learning models
+models/
+*.joblib
+*.pkl
+models/*.py  # Exclude model scripts
+
+# Deployment-specific files
+Deployment/
+*.sh
+
+# Other OS or editor-specific files
+.DS_Store
+Thumbs.db

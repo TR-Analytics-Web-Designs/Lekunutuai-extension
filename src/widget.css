@@ -1,0 +1,13 @@
+.widget-container {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  border: 1px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+#widget-message {
+  font-size: 16px;
+  color: #333;
+  margin-top: 10px; /* Added margin for spacing */
+}
